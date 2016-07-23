@@ -4,6 +4,7 @@ class BasicMath {
         return a + b;
     }
 
+<<<<<<< HEAD
     public int div(int a, int b) {
         return a / b;
     public int mult(int a, int b) {
@@ -11,4 +12,15 @@ class BasicMath {
     }
 
 
+=======
+    int sub(int a, int b){
+        return a - b; 
+    }
+
+
+
+    // TODO: subtract
+	// TODO: multiply
+	// TODO: divide
+>>>>>>> feature/sub
 }
