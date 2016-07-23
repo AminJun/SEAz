@@ -10,10 +10,9 @@ class BasicMath {
     public int mult(int a, int b) {
         return a * b;
     }
-
-
+    
     int sub(int a, int b) {
-git         return a - b;
+        return a - b;
     }
 
 }
